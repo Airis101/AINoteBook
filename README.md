@@ -1,4 +1,3 @@
-# AIM-AINoteBook
 # AIM∞AINoteBook
 
 ## 一、简介
@@ -27,7 +26,7 @@ AIM∞AINoteBook 一款精巧的AI笔记本，将传统的手写计划本“智�
 ### 2. 下载AINoteBook到本地
 下载完后，对应下图四个文件：  
 
-![img_14.png](img_14.png)  
+<img width="1027" height="166" alt="image" src="https://github.com/user-attachments/assets/207f80c4-3d57-4e0a-af4e-e6bb23790793" />
 可对主程序AINoteBook.exe进行hash校验，如下:
 
     md5: 94F31FE03901420156ED8CF08FFE20F0
@@ -36,11 +35,12 @@ AIM∞AINoteBook 一款精巧的AI笔记本，将传统的手写计划本“智�
 ### 3. 运行AINoteBook主程序
 点击运行主程序后，看到如下界面表示服务启动成功：  
 
-![img_6.png](img_6.png)
+<img width="1305" height="629" alt="image" src="https://github.com/user-attachments/assets/4758be88-f474-4d5f-8f69-44a2634f0b48" />
+
 
 同时会自动打开浏览器看到AINoteBook登录界面：  
 
-![img_4.png](img_4.png)  
+<img width="1444" height="973" alt="image" src="https://github.com/user-attachments/assets/db257841-1d43-4afc-88db-c35953a87b18" />
 
 ### 4. 激活AI,配置API_KEY
 
@@ -59,30 +59,35 @@ AINoteBook_v1.0.0支持三家模型提供商的模型，DeepSeek、Qwen以及Ope
 
 #### 3)配置环境变量  
 以阿里通义千问Qwen为例，进行介绍，右键此电脑，点击 **属性**  
-![img_7.png](img_7.png)  
+<img width="547" height="506" alt="image" src="https://github.com/user-attachments/assets/19637c5b-8766-477d-b603-7e894359dfc5" />  
+
 在弹出来的界面 系统->系统属性 中点击 **高级系统设置**  
-![img_20.png](img_20.png)
+<img width="1415" height="493" alt="image" src="https://github.com/user-attachments/assets/ab3bcef8-185c-443c-a092-7e1bb986a637" />  
+
 在弹出来的界面中，点击 **环境变量**  
-![img_10.png](img_10.png)  
+<img width="734" height="823" alt="image" src="https://github.com/user-attachments/assets/6e89092d-e4b0-4a90-9c30-414b3f31ed72" />   
+
 在弹出来的环境变量界面，可以选择新建用户变量，也可以选择新建系统变量，以用户变量为例，点击 **新建**  
-![img_12.png](img_12.png)
+<img width="961" height="475" alt="image" src="https://github.com/user-attachments/assets/cf51a41a-95c5-4118-abc3-d5b237a0345f" />  
+
 在弹出来的界面中，
 - 变量名(N)：就是之前提到过的三家模型提供商对应的API_KEY名称，如上 1）中介绍的，这里我们用的是Qwen，即变量名这里填： "API_KEY_QWQ"
 - 变量值(V): 就是你在对应模型厂商获取到的API_KEY的值，如上 2）中介绍的，获取到后填入即可  
 
 
-![img_13.png](img_13.png)
+<img width="1011" height="257" alt="image" src="https://github.com/user-attachments/assets/05ed41c4-6acb-4c7e-b93d-7487ff3eee72" />  
+
 > **注意**：一定对应上，比如你使用的是Qwen，那么API_KEY_QWQ的值应该是你在阿里千问里获取到的API_KEY值！  
 
 
 ### 5. 注册账号，开始使用
 在AINoteBook注册界面注册一个账号后，便可登陆系统开始使用，
 
-![img_15.png](img_15.png)
+<img width="1519" height="1002" alt="image" src="https://github.com/user-attachments/assets/16b2e9da-d03e-4276-8583-31756ca4c0ed" />
 
 可在分析中，和AIMi酱聊天测试上 3) API_KEY环境变量是否配置成功  
 
-![img_16.png](img_16.png)
+<img width="1654" height="1012" alt="image" src="https://github.com/user-attachments/assets/5f299429-efc5-4815-889f-83afb05cb748" />
 
 ## 6.AIMi酱功能探索
 AIM∞AINoteBook最智能的部分就是AIMi酱同学了，她可以为你提供强大的旅行安排、任务规划、计划规划、日程整理等帮助。  
@@ -92,17 +97,16 @@ AIM∞AINoteBook最智能的部分就是AIMi酱同学了，她可以为你提供
 
 有时候，当你懒得去仪表盘或计划栏看你当前剩余待办的任务或计划项时候，你就可以把问题抛给AIMi酱，她会帮你整理   
 
-![img_17.png](img_17.png)  
+<img width="557" height="882" alt="image" src="https://github.com/user-attachments/assets/1f3fe72d-0f8f-40f3-95b2-84ba1a488ae2" />
 
 随后，你可以直接让AIMi酱来给你整理一份带任务计划的旅游方案 
 
-![img_25.png](img_25.png)
-![img_23.png](img_23.png)
-
+<img width="654" height="1107" alt="image" src="https://github.com/user-attachments/assets/1e93644e-b743-4bb0-806c-b9100edc5568" />
+<img width="661" height="895" alt="image" src="https://github.com/user-attachments/assets/c67494f6-2be4-41bf-8629-80566b15f7be" />
 
 有时候，AIMi酱还会自动帮你导出旅游方案文档(也可以手动导出)，在浏览器下载界面即可看到导出文档  
 
-![img_26.png](img_26.png)
+<img width="1143" height="929" alt="image" src="https://github.com/user-attachments/assets/03e2bf82-ccb9-4c54-9e79-05d7b465f9c4" />
 
 AIMi酱还有很多强大功能，另外AINoteBook也不仅只可应用在记笔记这一件事上，你也可以把它应用到日常办公，例如以下行业：  
    
@@ -153,3 +157,5 @@ AINoteBook无需安装，启动时候自动加载到内存中运行，因此放�
 ---
 
 >**AIM∞AINoteBook完全免费，任何人均可将其应用到自己的日常生活中。**
+
+<img width="1197" height="1189" alt="image" src="https://github.com/user-attachments/assets/a31cb229-8d1a-42e2-9c22-60cc69bde1bb" />
