@@ -158,4 +158,6 @@ AINoteBook无需安装，启动时候自动加载到内存中运行，因此放�
 
 >**AIM∞AINoteBook完全免费，任何人均可将其应用到自己的日常生活中。**
 
-<img width="1197" height="1189" alt="image" src="https://github.com/user-attachments/assets/a31cb229-8d1a-42e2-9c22-60cc69bde1bb" />
+<img width="1197" height="1189" alt="image" src="https://github.com/user-attachments/assets/a31cb229-8d1a-42e2-9c22-60cc69bde1bb" />  
+<img width="1197" height="550" alt="image" src="https://github.com/user-attachments/assets/8cdc8488-ca90-46f9-ad54-b17737470a45" />
+
