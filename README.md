@@ -29,8 +29,8 @@ AIM∞AINoteBook 一款精巧的AI笔记本，将传统的手写计划本“智�
 <img width="1027" height="166" alt="image" src="https://github.com/user-attachments/assets/207f80c4-3d57-4e0a-af4e-e6bb23790793" />
 可对主程序AINoteBook.exe进行hash校验，如下:
 
-    md5: 94F31FE03901420156ED8CF08FFE20F0
-    sha1: 98465A12CCFF58239024CA0264BD01EB576BB754
+    md5: 7A12C0B50B103504B072BF3820B7F3EC
+    sha1: CAE2875E3B306315B7E5682261FCDC2286675F81
 
 ### 3. 运行AINoteBook主程序
 点击运行主程序后，看到如下界面表示服务启动成功：  
