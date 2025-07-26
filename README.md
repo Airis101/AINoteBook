@@ -108,7 +108,8 @@ AINoteBook_v1.0.0支持三家模型提供商的模型，DeepSeek、Qwen以及Ope
  
 如下图所示：  
 
-![img_2.png](img_2.png)  
+<img width="1616" height="980" alt="image" src="https://github.com/user-attachments/assets/eaa2a38f-8a5d-4fa3-990b-7f3ff75913ad" />
+
 
 在 **历史计划查询**  界面，你可以对历史编写的计划进行查询，默认该栏会显示历史所有计划项目，可以按照一下方式进行筛选和排序：  
 - 按照时间范围进行筛选
@@ -120,6 +121,7 @@ AINoteBook_v1.0.0支持三家模型提供商的模型，DeepSeek、Qwen以及Ope
 
 另外在计划编辑界面有上方提供了三个不同颜色功能按钮  
 
+<img width="781" height="53" alt="image" src="https://github.com/user-attachments/assets/480015d3-4fe7-4d30-92dc-5749ff5e037d" />
 
 分别是:  
 
@@ -132,6 +134,7 @@ AINoteBook_v1.0.0支持三家模型提供商的模型，DeepSeek、Qwen以及Ope
 
 ### 3) 日记
 日记模块同样分为 **写日记** 和 **计划列表** 两个部分，如下图：  
+<img width="1607" height="1055" alt="image" src="https://github.com/user-attachments/assets/2280d872-a6bc-404e-96da-58f2538f9ab3" />  
 
 在**写日记**界面中，你可以进行日记编写(当然也不一定必须是日记，你可以自己定义去写什么，比如随手记这种)，每个日记包含一下部分:  
 - 日期 
@@ -141,14 +144,18 @@ AINoteBook_v1.0.0支持三家模型提供商的模型，DeepSeek、Qwen以及Ope
 
 编写完后保存即可。  
 在 **历史计划** 查询界面，可以查看历史日记条目，默认会显示所有日记。可以进行查询筛选，支持按 **关键字** 以及 **日期查询**。如下，按照关键字“骑行”进行筛选  
- 
+ <img width="578" height="266" alt="image" src="https://github.com/user-attachments/assets/9e2f4648-f4c1-42f4-9572-f26771da7de5" />
+
 在筛选结果中点击指定日记条目，会自动同步到日记填写界面，方便进行修改等操作  
- 
+ <img width="1569" height="531" alt="image" src="https://github.com/user-attachments/assets/db826c2e-8f12-435f-b501-ae6650f123a9" />
+
 
 ### 4) 分析  
 分析模块分为 **数据分析中心** 以及 **AIMi酱同学** 两部分。
+<img width="1720" height="1139" alt="image" src="https://github.com/user-attachments/assets/3de28e9f-42b6-491e-b707-f96a9313c360" />
 
 在**数据分析中心**界面，你可以选择对自己自定日期范围内的的日常学习生活等进行总结，可以选择不同的模型来进行分析:  
+<img width="1114" height="1019" alt="image" src="https://github.com/user-attachments/assets/d948a4f2-e13e-4ed2-90f9-efeba28baa6f" />
 
 指定筛选日期后，便会开是尽心分析，分析结果将按照如下五个维度进行:  
 - 任务完成情况分析
@@ -157,22 +164,26 @@ AINoteBook_v1.0.0支持三家模型提供商的模型，DeepSeek、Qwen以及Ope
 - 个性化改进建议
 - 亮点总结  
 
-分析结果类似下图:
+分析结果类似下图:  
+<img width="1129" height="950" alt="image" src="https://github.com/user-attachments/assets/8987a674-bcde-442b-9ea6-af6c47d47669" />
 
-你还可以在界面下方的**历史报告**中查看历史分析的报告
+你还可以在界面下方的**历史报告**中查看历史分析的报告  
+<img width="1466" height="801" alt="image" src="https://github.com/user-attachments/assets/a7586bf3-1c88-4b68-b4e2-daef5e4a8f9d" />
 
-你也可以将分析结果导出为 txt/word/pdf 
+你也可以将分析结果导出为 txt/word/pdf   
+<img width="927" height="168" alt="image" src="https://github.com/user-attachments/assets/a12bc26f-ef3f-4339-aa67-33d3f2ee409c" />
 
 在**AIMi酱同学**对话框中，你可以和AIMi酱进行包含计划任务、日记信息等在内的智能对话。你可以通过新建会话的方式来对对话内容进行分类，这样在基于上下文的回答过程中AIMi酱会回答的更加准确，如下图:   
+<img width="525" height="319" alt="image" src="https://github.com/user-attachments/assets/38cba9dc-090d-4791-827f-1d866ec2ac59" />
 
 随后你便可以在对应的会话中和AIMi酱进行聊天。
 在聊天过程中，你可以通过右上方的**记忆功能**按钮来决定是否让AIMi酱记住之前的聊天对话信息，开启后，AIMi酱在长上下问对话过程中回答会更加准确，但是同时缺点是 “比较烧钱”！  
 
 我们的建议是，对于单次不需要参考以前聊天内容的问答，可以关闭该功能。对于多次相关问答，则开启该功能。  
-
- 
+ <img width="560" height="141" alt="image" src="https://github.com/user-attachments/assets/6929d2a7-2cab-4f4a-a042-64e2ea232f67" />
 
 最后，你还可以将对话内容导出为 txt/word/pdf  
+<img width="522" height="440" alt="image" src="https://github.com/user-attachments/assets/5d7d2284-3b8f-4c49-8176-f783ab540f19" />
 
 
 ### **AIMi酱功能探索**
@@ -182,16 +193,13 @@ AIM∞AINoteBook最智能的部分就是AIMi酱同学了，她可以为你提供
 >  **现在有这样一个场景：你想最近这一段时间去苏州旅游，但同时又不想因此拉下还没有完成的任务计划，此时你就可以让AIMi酱去帮你整理一份同时包含完成计划在内的旅游规划方案。**
 
 有时候，当你懒得去仪表盘或计划栏看你当前剩余待办的任务或计划项时候，你就可以把问题抛给AIMi酱，她会帮你整理   
-
 <img width="557" height="882" alt="image" src="https://github.com/user-attachments/assets/1f3fe72d-0f8f-40f3-95b2-84ba1a488ae2" />
 
-随后，你可以直接让AIMi酱来给你整理一份带任务计划的旅游方案 
-
+随后，你可以直接让AIMi酱来给你整理一份带任务计划的旅游方案   
 <img width="654" height="1107" alt="image" src="https://github.com/user-attachments/assets/1e93644e-b743-4bb0-806c-b9100edc5568" />
 <img width="661" height="895" alt="image" src="https://github.com/user-attachments/assets/c67494f6-2be4-41bf-8629-80566b15f7be" />
 
 有时候，AIMi酱还会自动帮你导出旅游方案文档(也可以手动导出)，在浏览器下载界面即可看到导出文档  
-
 <img width="1143" height="929" alt="image" src="https://github.com/user-attachments/assets/03e2bf82-ccb9-4c54-9e79-05d7b465f9c4" />
 
 AIMi酱还有很多强大功能，另外AINoteBook也不仅只可应用在记笔记这一件事上，你也可以把它应用到日常办公，例如以下行业：  
