@@ -166,30 +166,24 @@ AINoteBook_v1.0.0支持三家模型提供商的模型，DeepSeek、Qwen以及Ope
 - 亮点总结  
 
 分析结果类似下图:  
-
 <img width="1129" height="950" alt="image" src="https://github.com/user-attachments/assets/8987a674-bcde-442b-9ea6-af6c47d47669" />
 
 你还可以在界面下方的**历史报告**中查看历史分析的报告  
-
 <img width="1466" height="801" alt="image" src="https://github.com/user-attachments/assets/a7586bf3-1c88-4b68-b4e2-daef5e4a8f9d" />
 
 你也可以将分析结果导出为 txt/word/pdf   
-
 <img width="927" height="168" alt="image" src="https://github.com/user-attachments/assets/a12bc26f-ef3f-4339-aa67-33d3f2ee409c" />
 
 在**AIMi酱同学**对话框中，你可以和AIMi酱进行包含计划任务、日记信息等在内的智能对话。你可以通过新建会话的方式来对对话内容进行分类，这样在基于上下文的回答过程中AIMi酱会回答的更加准确，如下图:   
-
 <img width="525" height="319" alt="image" src="https://github.com/user-attachments/assets/38cba9dc-090d-4791-827f-1d866ec2ac59" />
 
 随后你便可以在对应的会话中和AIMi酱进行聊天。
 在聊天过程中，你可以通过右上方的**记忆功能**按钮来决定是否让AIMi酱记住之前的聊天对话信息，开启后，AIMi酱在长上下问对话过程中回答会更加准确，但是同时缺点是 “比较烧钱”！  
 
 我们的建议是，对于单次不需要参考以前聊天内容的问答，可以关闭该功能。对于多次相关问答，则开启该功能。  
-
- <img width="560" height="141" alt="image" src="https://github.com/user-attachments/assets/6929d2a7-2cab-4f4a-a042-64e2ea232f67" />
+<img width="560" height="141" alt="image" src="https://github.com/user-attachments/assets/6929d2a7-2cab-4f4a-a042-64e2ea232f67" />
 
 最后，你还可以将对话内容导出为 txt/word/pdf  
-
 <img width="522" height="440" alt="image" src="https://github.com/user-attachments/assets/5d7d2284-3b8f-4c49-8176-f783ab540f19" />
 
 
@@ -200,16 +194,13 @@ AIM∞AINoteBook最智能的部分就是AIMi酱同学了，她可以为你提供
 >  **现在有这样一个场景：你想最近这一段时间去苏州旅游，但同时又不想因此拉下还没有完成的任务计划，此时你就可以让AIMi酱去帮你整理一份同时包含完成计划在内的旅游规划方案。**
 
 有时候，当你懒得去仪表盘或计划栏看你当前剩余待办的任务或计划项时候，你就可以把问题抛给AIMi酱，她会帮你整理   
-
 <img width="557" height="882" alt="image" src="https://github.com/user-attachments/assets/1f3fe72d-0f8f-40f3-95b2-84ba1a488ae2" />
 
 随后，你可以直接让AIMi酱来给你整理一份带任务计划的旅游方案   
-
 <img width="654" height="1107" alt="image" src="https://github.com/user-attachments/assets/1e93644e-b743-4bb0-806c-b9100edc5568" />
 <img width="661" height="895" alt="image" src="https://github.com/user-attachments/assets/c67494f6-2be4-41bf-8629-80566b15f7be" />
 
 有时候，AIMi酱还会自动帮你导出旅游方案文档(也可以手动导出)，在浏览器下载界面即可看到导出文档  
-
 <img width="1143" height="929" alt="image" src="https://github.com/user-attachments/assets/03e2bf82-ccb9-4c54-9e79-05d7b465f9c4" />
 
 AIMi酱还有很多强大功能，另外AINoteBook也不仅只可应用在记笔记这一件事上，你也可以把它应用到日常办公，例如以下行业：  
