@@ -92,15 +92,15 @@ AINoteBook_v1.0.0支持三家模型提供商的模型，DeepSeek、Qwen以及Ope
 
 <img width="1654" height="1012" alt="image" src="https://github.com/user-attachments/assets/5f299429-efc5-4815-889f-83afb05cb748" />
 
-## 6.功能介绍
+### 6.功能介绍
 
-### 1) 仪表盘
+#### 1) 仪表盘
 <img width="1616" height="1069" alt="image" src="https://github.com/user-attachments/assets/eeb1d56c-9301-445f-aece-baa2d5b87f8e" />
 在仪表盘中，你可以一览任务一些关键信息，如临近截至日期的任务完成率、待办任务、记录日记数目等等信息，你还可以选择右上方的下拉栏里面进行时间筛选，可以将展示数据范围固定到一个时间段(本周/本月/本年/所有时间)。  
 你还可以点击上方的**待办任务**和**日记卡片**，直接看相应的信息，如下图所示：
 <img width="1382" height="461" alt="image" src="https://github.com/user-attachments/assets/3719deb6-efa2-4dd6-98e0-0a122477e516" />
 
-### 2) 计划  
+#### 2) 计划  
 计划模块分为 **计划编辑** 以及 **历史计划查询** 这两部分。  
 在 **计划编辑** 界面，你可以进行计划编写，每个计划栏包含一下选项： 
 - 计划标题
@@ -136,7 +136,7 @@ AINoteBook_v1.0.0支持三家模型提供商的模型，DeepSeek、Qwen以及Ope
 
 可以配合筛选功能来快速对计划进行编辑。  
 
-### 3) 日记
+#### 3) 日记
 日记模块同样分为 **写日记** 和 **计划列表** 两个部分，如下图：  
 <img width="1607" height="1055" alt="image" src="https://github.com/user-attachments/assets/2280d872-a6bc-404e-96da-58f2538f9ab3" />  
 
@@ -154,7 +154,7 @@ AINoteBook_v1.0.0支持三家模型提供商的模型，DeepSeek、Qwen以及Ope
  <img width="1569" height="531" alt="image" src="https://github.com/user-attachments/assets/db826c2e-8f12-435f-b501-ae6650f123a9" />
 
 
-### 4) 分析  
+#### 4) 分析  
 分析模块分为 **数据分析中心** 以及 **AIMi酱同学** 两部分。
 <img width="1720" height="1139" alt="image" src="https://github.com/user-attachments/assets/3de28e9f-42b6-491e-b707-f96a9313c360" />
 
